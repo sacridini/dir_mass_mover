@@ -1,0 +1,9 @@
+c:\users\eduardo\documents\visual studio 2015\Projects\dir_mover\dir_mover\bin\Debug\dir_mover.exe.config
+c:\users\eduardo\documents\visual studio 2015\Projects\dir_mover\dir_mover\bin\Debug\dir_mover.exe
+c:\users\eduardo\documents\visual studio 2015\Projects\dir_mover\dir_mover\bin\Debug\dir_mover.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\dir_mover\dir_mover\obj\Debug\dir_mover.csprojResolveAssemblyReference.cache
+c:\users\eduardo\documents\visual studio 2015\Projects\dir_mover\dir_mover\obj\Debug\dir_mover.Form1.resources
+c:\users\eduardo\documents\visual studio 2015\Projects\dir_mover\dir_mover\obj\Debug\dir_mover.Properties.Resources.resources
+c:\users\eduardo\documents\visual studio 2015\Projects\dir_mover\dir_mover\obj\Debug\dir_mover.csproj.GenerateResource.Cache
+c:\users\eduardo\documents\visual studio 2015\Projects\dir_mover\dir_mover\obj\Debug\dir_mover.exe
+c:\users\eduardo\documents\visual studio 2015\Projects\dir_mover\dir_mover\obj\Debug\dir_mover.pdb
